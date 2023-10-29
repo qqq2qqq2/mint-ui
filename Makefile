@@ -4,6 +4,9 @@ default: help
 dev:
 	npm run dev
 
+dev:
+	npm run
+
 dist:
 	npm run dist
 
